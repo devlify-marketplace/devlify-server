@@ -1,11 +1,10 @@
 {
-	"name": "elysia",
-	"description": "Ergonomic Framework for Human",
+	"name": "devlify-server",
+	"description": "Type-Safe API Framework for Bun by Devlify Marketplace",
 	"version": "1.4.30",
 	"author": {
-		"name": "saltyAom",
-		"url": "https://github.com/SaltyAom",
-		"email": "saltyaom@gmail.com"
+		"name": "Devlify Marketplace",
+		"url": "https://github.com/devlify-marketplace"
 	},
 	"main": "./dist/index.js",
 	"module": "./dist/index.mjs",
@@ -165,10 +164,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/elysiajs/elysia"
+		"url": "https://github.com/devlify-marketplace/devlify-server.git"
 	},
-	"bugs": "https://github.com/elysiajs/elysia/issues",
-	"homepage": "https://github.com/elysiajs/elysia",
+	"bugs": "https://github.com/devlify-marketplace/devlify-server/issues",
+	"homepage": "https://github.com/devlify-marketplace/devlify-server",
 	"keywords": [
 		"bun",
 		"http",
